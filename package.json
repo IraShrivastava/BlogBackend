@@ -1,0 +1,22 @@
+{
+  "name": "blog-application",
+  "version": "1.0.0",
+  "description": "this is a very small REST API for a blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "mongoose": "^5.9.7",
+    "pino": "^6.1.1",
+    "shortid": "^2.2.15"
+  }
+}
